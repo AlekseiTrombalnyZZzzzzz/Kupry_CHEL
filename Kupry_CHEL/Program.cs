@@ -1,1 +1,1 @@
-﻿Console.WriteLine("отправить в холокост");
+﻿Console.WriteLine("фьукшлф пщмтщ");
