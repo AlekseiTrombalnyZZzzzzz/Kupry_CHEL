@@ -1,1 +1,2 @@
-﻿Console.WriteLine("фьукшлф пщмтщ");
+﻿using Kupry_CHEL;
+proga3.main();
